@@ -2,7 +2,6 @@ body
 {
     color: #333;
     text-align: center;
-<<<<<<< HEAD
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     margin: 0;
@@ -32,7 +31,6 @@ body
     font-size: 0.8em;
 }
 #container 
->>>>>>> cabecera
 {
     width: 70%;
     padding: 1em;
@@ -43,11 +41,8 @@ body
 #container h1
 {
     font-size: 20px;
-<<<<<<< HEAD
-=======
 }
 #post
 {
     padding: 1em;
->>>>>>> cabecera
 }
